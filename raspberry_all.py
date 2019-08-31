@@ -29,7 +29,7 @@ def raspberry_usart(turn):
             # 读取内容并回显
             recv = ser.read(count)  # 读取缓冲区里面数据
             #print(recv)
-            recv = recv.split()
+            recv = recv.split()  #对数据字符串依据 空格、换行、制表符等进行分类
             a = float(recv[0])
             b = float(recv[1])
             c = float(recv[2])
