@@ -1,0 +1,11 @@
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/104.jpg 225,2266,1090,3881,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/133.jpg 1385,1751,2260,2801,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/144.jpg 1280,1961,2185,2916,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/153.jpg 1235,2026,2180,3596,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/160.jpg 1700,1251,2070,2291,2
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/171.jpg 1045,1561,1855,3301,2
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/177.jpg 875,1401,2765,3471,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/5.jpg 910,901,2085,3016,2
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/57.jpg 430,1516,2740,3581,0
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/74.jpg 660,2071,1375,2906,1
+D:\2018SRTP\ClothRecognize\Cloth_YOLOv3\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/90.jpg 1640,2221,2740,3431,0
