@@ -1,2 +1,2 @@
 # srtp---clothes
-srtp项目衣物识别代码保存，树莓派代码保存
+SRTP item clothing identification code is saved, raspberry PI code is saved
